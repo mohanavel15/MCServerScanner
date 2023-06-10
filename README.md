@@ -1,2 +1,4 @@
 # MCServerScanner
-Internet wide server scanner
+Minecraft server scanner
+
+# WORK IN PROGRESS
